@@ -1,7 +1,7 @@
 'use client'
 import React from 'react'
 import { motion } from 'motion/react'
-import { Leaf, ArrowDown, ExternalLink } from 'lucide-react'
+import { Leaf, ArrowDown } from 'lucide-react'
 
 export default function HomeSection() {
   const scrollToNext = () =>
