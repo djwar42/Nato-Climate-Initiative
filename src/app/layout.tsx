@@ -3,6 +3,7 @@ import React from 'react'
 import { Inter } from 'next/font/google'
 import { motion } from 'motion/react'
 import { Leaf } from 'lucide-react'
+import { Analytics } from '@vercel/analytics/react' // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
