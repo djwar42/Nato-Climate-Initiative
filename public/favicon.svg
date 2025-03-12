@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- White circular background -->
+  <circle cx="16" cy="16" r="16" fill="#FFFFFF"/>
+  <!-- Simplified leaf icon -->
+  <path 
+    d="M16 8C13.79 8 12 9.79 12 12s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 6c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm-6 8c0-2.21 1.79-4 4-4h4c2.21 0 4 1.79 4 4v2H10v-2z" 
+    fill="#4CAF50"
+  />
+</svg>
